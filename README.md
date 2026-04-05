@@ -185,3 +185,4 @@ This project demonstrates a **complete machine learning lifecycle**:
 * Model deployment
 
 ---
+web application URL-- https://telecom-customer-churn-prediction-ycwjs5vchgdjdhs4sy6k7g.streamlit.app/
